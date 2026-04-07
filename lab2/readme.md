@@ -21,7 +21,7 @@ By completing this lab, you will practice:
 
 Add these files so this section renders automatically:
 
-![Lab 2 Circuit Setup](../media/lab2/lab2-setup.jpg)
+![Lab 2 Circuit Setup](lab2/Screenshot 2026-03-31 115111.png)
 
 - Demo video (local file): [Lab 2 Demo](../media/lab2/lab2-demo.mp4)
 - Demo video (YouTube alternative): [Lab 2 Demo on YouTube](https://www.youtube.com/)
