@@ -21,10 +21,7 @@ By completing this lab, you will practice:
 
 Add these files so this section renders automatically:
 
-![Lab 1 Circuit Setup](../media/lab1/lab1-setup.jpg)
-
-- Demo video (local file): [Lab 1 Demo](../media/lab1/lab1-demo.mp4)
-- Demo video (YouTube alternative): [Lab 1 Demo on YouTube](https://www.youtube.com/)
+![Lab 1 Circuit Setup](../lab1/Screenshot.png)
 
 ## Hardware Required
 
