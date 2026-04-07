@@ -23,7 +23,7 @@ Add these files so this section renders automatically:
 
 ![Lab 2 Circuit Setup](../lab2/Screenshot.png)
 
-- Demo video (local file): [Lab 2 Demo](../lab2/lab2-demo.mp4)
+- Demo video (local file): [Lab 2 Demo](../lab2/2keys_being_pressed.mp4)
 ## Library Dependency
 
 Install Arduino `Keypad` library before uploading.
