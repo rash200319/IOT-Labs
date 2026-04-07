@@ -20,6 +20,24 @@ IOT-Labs/
 1. `lab1`: 8-key summing tone generator.
 2. `lab2`: 4x4 keypad to 7-segment display interface.
 
+## Visual Previews
+
+Add real setup photos and short demo videos so readers can quickly understand each lab.
+
+### Lab 1 Preview
+
+![Lab 1 Wiring and Setup](media/lab1/lab1-setup.jpg)
+
+- Demo video: [Watch Lab 1 Demo](media/lab1/lab1-demo.mp4)
+
+### Lab 2 Preview
+
+![Lab 2 Wiring and Setup](media/lab2/lab2-setup.jpg)
+
+- Demo video: [Watch Lab 2 Demo](media/lab2/lab2-demo.mp4)
+
+If you host videos on YouTube, replace the links above with YouTube URLs.
+
 ## Requirements
 
 - Arduino IDE 2.x (or Arduino CLI)
@@ -65,6 +83,21 @@ For each lab, keep:
 - A wiring photo or diagram
 - The final uploaded sketch
 - Short test notes: what worked, what failed, and how it was fixed
+
+## Media Folder Convention
+
+Use this structure for images and videos:
+
+```text
+IOT-Labs/
+	media/
+		lab1/
+			lab1-setup.jpg
+			lab1-demo.mp4
+		lab2/
+			lab2-setup.jpg
+			lab2-demo.mp4
+```
 
 ## License
 
