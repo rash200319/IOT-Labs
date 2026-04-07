@@ -21,7 +21,7 @@ By completing this lab, you will practice:
 
 Add these files so this section renders automatically:
 
-![Lab 2 Circuit Setup](../lab2/Screenshot)
+![Lab 2 Circuit Setup](lab2/Screenshot.png)
 
 - Demo video (local file): [Lab 2 Demo](../lab2/lab2-demo.mp4)
 ## Library Dependency
