@@ -26,15 +26,12 @@ Add real setup photos and short demo videos so readers can quickly understand ea
 
 ### Lab 1 Preview
 
-![Lab 1 Wiring and Setup](media/lab1/lab1-setup.jpg)
+![Lab 1 Wiring and Setup](lab1/Screenshot.png)
 
-- Demo video: [Watch Lab 1 Demo](media/lab1/lab1-demo.mp4)
 
 ### Lab 2 Preview
 
-![Lab 2 Wiring and Setup](media/lab2/lab2-setup.jpg)
-
-- Demo video: [Watch Lab 2 Demo](media/lab2/lab2-demo.mp4)
+![Lab 2 Wiring and Setup](lab2/Screenshot.png)
 
 If you host videos on YouTube, replace the links above with YouTube URLs.
 
